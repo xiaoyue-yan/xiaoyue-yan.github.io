@@ -22,8 +22,8 @@ author_profile: true
 * "Variability Propagation in Perishable Product Supply Chains." Joint work with Elena Belavina. Under review. [[Document]](/files/var_prop.pdf)
 
 
-* "Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency." with Elena Belavina and Karan Girotra. In progress.
+* "Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency." Joint work with Elena Belavina and Karan Girotra. In progress.
 
 
-* "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure." with Li Chen. In progress.
+* "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure." Joint work with Li Chen. In progress.
 

@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 
 ## Upcoming Talks
-* **INFORMS** Annual Meeing, Phoenix, 2023. Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency.
+* **INFORMS** Annual Meeting, Phoenix, 2023. Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency.
 
 * **MSOM** Conference, Montreal, 2023. Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency.
 
 
 ## Selected Talks
-* **INFORMS** Annual Meeing, Indianapolis, 2022. Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure.
+* **INFORMS** Annual Meeting, Indianapolis, 2022. Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure.
 
-* **INFORMS** Annual Meeing, Anaheim, 2021. Optimal Cash Management with Payables Finance.
+* **INFORMS** Annual Meeting, Anaheim, 2021. Optimal Cash Management with Payables Finance.
 
 * **MSOM** Conference, Online, 2021. Variability Propagation in the Perishable Product Supply Chains.
 
@@ -28,7 +28,7 @@ author_profile: true
 
 * **Supply Chain Finance & Risk Management Workshop**, Online, 2021. Optimal Cash Management with Payables Finance.
 
-* **INFORMS** Annual Meeing, Online, 2020. Variability Propagation in the Perishable Product Supply Chains.
+* **INFORMS** Annual Meeting, Online, 2020. Variability Propagation in the Perishable Product Supply Chains.
 
 * **Cornell Johnson OTIM PhD Forum**, Ithaca, 2020. Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure.
 

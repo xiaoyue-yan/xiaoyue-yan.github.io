@@ -17,7 +17,7 @@ author_profile: true
   * Review session instructor, 4.86 (1-5 Scale)
   * [Teaching moments](/teaching_pics).
 
-* HADM 9320 (Springb 2022): Foundations of Operations Management II (PhD Seminar)
+* HADM 9320 (Spring 2022): Foundations of Operations Management II (PhD Seminar)
   * Invited to give a guest lecture
 
 ### Teaching Assistant

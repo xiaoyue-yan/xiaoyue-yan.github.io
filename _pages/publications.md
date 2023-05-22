@@ -13,11 +13,13 @@ author_profile: true
 {% include base_path %}
 
 ## Publication
-* "Managing a Hybrid RDC-DC Inventory System." Joint work with Tong Wang and Chaolin Yang. **Production and Operations Management** 2021, 30: 3679-3697. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13458)
+* "Managing a Hybrid RDC-DC Inventory System." Joint work with Tong Wang and Chaolin Yang. **Production and Operations Management** 2021, 30: 3679-3697. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13458)
 
 ## Working Papers
-* "Optimal Cash Management with Payables Finance." Joint work with Li Chen and Xiaobo Ding. Major revision at **Operations Research**.
-* "Variability Propagation in the Perishable Product Supply Chains." Joint work with Elena Belavina. Under review.
+* "Optimal Cash Management with Payables Finance." Joint work with Li Chen and Xiaobo Ding. Major revision at **Operations Research**. [[Document]](/files/scf.pdf)
+
+
+* "Variability Propagation in Perishable Product Supply Chains." Joint work with Elena Belavina. Under review. [[Document]](/files/var_prop.pdf)
 
 ## Work in Progress
 * "Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency." with Elena Belavina and Karan Girotra. In progress.

@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
+## Teaching Experience
 ### Co-instructor
 * NCCY 5090 (Fall 2021): Managing Operations (MBA Core)
-  * Review session instructor, 4.86 (1-5 Scale)
+  * Review session instructor, 4.86/5.00
   * [Teaching moments](/teaching_pics).
 
 * HADM 9320 (Spring 2022): Foundations of Operations Management II (PhD Seminar)

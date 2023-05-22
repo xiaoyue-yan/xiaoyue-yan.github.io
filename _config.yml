@@ -81,28 +81,28 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyue Yan"
-  avatar           : "profile.png"
-  bio              : "Hello World!"
-  location         : "Ithaca, NY"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Candidate"
+  location         : 
+  employer         : "Cornell University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : 
+  email            : "xy393@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.johnson.cornell.edu/programs/phd-program/current-students/xy393/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaoyue-yan"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xiaoyue-yan-946050173"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Services"
+title: "Teaching & Service"
 permalink: /teaching/
 author_profile: true
 ---
@@ -29,6 +29,6 @@ author_profile: true
 * MGMT 5080 (Spring 2020): Operations Management (MBA Core)
 * HADM 2010 (Spring 2020): Hospitality Quantitative Analysis (Undergraduate)
 
-## Services
+## Service
 * Session Chair for 2022, 2023 INFORMS Annual Meeting.
 * Co-chair for 2020-2021 Cornell Johnson OTIM PhD Forum. 

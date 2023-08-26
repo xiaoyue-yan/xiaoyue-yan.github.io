@@ -12,28 +12,28 @@ author_profile: true
 {% include base_path %}
 
 ## Upcoming Talks
-* **INFORMS** Annual Meeting, Phoenix, 2023. Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency.
-
-* **MSOM** Conference, Montreal, 2023. Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency.
-
-
-## Selected Talks
-* **INFORMS** Annual Meeting, Indianapolis, 2022. Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure.
-
-* **INFORMS** Annual Meeting, Anaheim, 2021. Optimal Cash Management with Payables Finance.
-
-* **MSOM** Conference, Online, 2021. Variability Propagation in the Perishable Product Supply Chains.
-
-* **MSOM** Conference, Online, 2021. Optimal Cash Management with Payables Finance.
-
-* **Supply Chain Finance & Risk Management Workshop**, Online, 2021. Optimal Cash Management with Payables Finance.
-
-* **INFORMS** Annual Meeting, Online, 2020. Variability Propagation in the Perishable Product Supply Chains.
-
-* **Cornell Johnson OTIM PhD Forum**, Ithaca, 2020. Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure.
-
-* **Cornell Johnson OTIM PhD Forum**, Ithaca, 2019. Variability Propagation in the Perishable Product Supply Chains.
-
-* **POMS** Conference, Washington, 2019. Managing a Hybrid RDC-DC Inventory System.
+* **INFORMS** Annual Meeting, Phoenix, 2023. "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
+  * Session TA28: October 17, 2023, 8 AM, CC-North 132A. 
+  * Session WB27: October 18, 2023, 9:30 AM, CC-North 131C.
 
 
+## Selected Invited Talks
+* "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
+  * **MSOM** Conference, Montreal, Jun 2023.  
+
+* "Optimal Cash Management with Payables Finance."
+  * **INFORMS** Annual Meeting, Anaheim, Oct 2021.
+  * **MSOM** Conference, Online, Jun 2021.
+  * **Supply Chain Finance & Risk Management Workshop**, Online, May 2021.
+
+* "Variability Propagation in the Perishable Product Supply Chains."
+  * **MSOM** Conference, Online, Jun 2021.
+  * **INFORMS** Annual Meeting, Online, Oct 2020.
+  * **Cornell Johnson OTIM PhD Forum**, Cornell University, Nov 2019.
+
+* "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure."
+  * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.
+  * **Cornell Johnson OTIM PhD Forum**, Cornell University, Dec 2020.
+
+* "Managing a Hybrid RDC-DC Inventory System."
+  * **POMS** Conference, Washington, May 2019.

@@ -11,24 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Experience
+## Teaching
 ### Co-instructor
-* NCCY 5090 (Fall 2021): Managing Operations (MBA Core)
-  * Review session instructor, 4.86/5.00
+* Review sessions for Managing Operations (MBA), Fall 2021
+  * Teaching evaluation: 4.86 (1-5 Scale) 
   * [Teaching moments](/teaching_pics).
 
-* HADM 9320 (Spring 2022): Foundations of Operations Management II (PhD Seminar)
-  * Invited to give a guest lecture
+* Guest lecture for Foundations of Operations Management II (PhD), Spring 2022
+
 
 ### Teaching Assistant
-* BANA 6420 (Spring 2023): Supply Chain Analytics (MBA Elective)
-* NCCT 5080 (Winter 2022, 2023): Managing Operations (Cornell-Tsinghua Finance MBA)
-* NBAB 6750 (Fall 2022): Leading Digital Transformation and Innovation (EMBA)
-* NBA 6410 (Fall 2021): Supply Chain Strategy (MBA Elective)
-* NCCY 5080 (Fall 2021): Operations Management (MBA Core)
-* MGMT 5080 (Spring 2020): Operations Management (MBA Core)
-* HADM 2010 (Spring 2020): Hospitality Quantitative Analysis (Undergraduate)
+* Supply Chain Analytics (Online MSBA Elective) - Spring 2023
+* Leading Digital Transformation and Innovation (EMBA) - Fall 2022
+* Managing Operations (Finance MBA Core) - Winter 2022, Winter 2023
+* Supply Chain Strategy (MBA) - Fall 2021
+* Operations Management (MBA) - Fall 2021, Spring 2020
+* Quantitative Analysis (Undergraduate) - Spring 2020
 
-## Service
-* Session Chair for 2022, 2023 INFORMS Annual Meeting.
+
+## Professional Service
+* Co-chair for 2022, 2023 INFORMS Annual Meeting.
 * Co-chair for 2020-2021 Cornell Johnson OTIM PhD Forum. 

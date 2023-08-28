@@ -21,7 +21,7 @@ author_profile: true
 
 
 * "Optimal Cash Management with Payables Finance." with Li Chen and Xiaobo Ding. 
-  * Under Review after Major Revision, **Operations Research**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3652688)
+  * Minor Revision, **Operations Research**. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3652688)
 
 
 * "Variability Propagation in Perishable Product Supply Chains." with Elena Belavina. *In preparation for resubmission to Management Science.* [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550255)

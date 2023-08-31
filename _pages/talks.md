@@ -14,7 +14,7 @@ author_profile: true
 ## Upcoming Talks
 * **INFORMS** Annual Meeting, Phoenix, 2023. "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
   * Session TA28: October 17, 2023, 8 AM, CC-North 132A. 
-  * Session WB27: October 18, 2023, 9:30 AM, CC-North 131C.
+  * Session TE26: October 17, 2023, 4 PM, CC-North 131B.
 
 
 ## Selected Invited Talks

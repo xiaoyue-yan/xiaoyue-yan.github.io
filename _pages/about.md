@@ -16,6 +16,6 @@ I am broadly interested in unraveling the emerging challenges of the modern supp
 
 I will be presenting my job market paper at the upcoming 2023 INFORMS Annual Meeting, and I extend a warm invitation to you to attend my sessions:
   *	**Session TA28: October 17, 2023, 8 AM, CC-North 132A.**
-  *	**Session WB27: October 18, 2023, 9:30 AM, CC-North 131C.**
+  *	**Session TE26: October 17, 2023, 4 PM, CC-North 131B.**
 
 See [here](/publications) for more about my research.

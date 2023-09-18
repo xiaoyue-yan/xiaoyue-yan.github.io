@@ -21,7 +21,7 @@ author_profile: true
 * "Managing a Hybrid RDC-DC Inventory System." with Tong Wang and Chaolin Yang. **Production and Operations Management** 2021, 30: 3679-3697. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13458)
 
 ## Working Papers
-* "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency." with Elena Belavina and Karan Girotra. 
+* "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency." with Elena Belavina and Karan Girotra. [[15-Minute Talk Preview]](https://www.dropbox.com/scl/fo/1nyv9v38tb0l0c1x54tfm/h?rlkey=rmpwxvugky4a8etwzfimjy2fp&dl=0)
   * Job Market Paper.
 
 * "Unraveling Fairness in Data-driven Supply Chains." with Elena Belavina and Karan Girotra. 

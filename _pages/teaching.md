@@ -21,11 +21,12 @@ author_profile: true
 
 
 ### Teaching Assistant
+* Managing Operations (Cornell-Tsinghua MBA Core) - Summer 2024, Spring 2023, Spring 2022
+* Managing Operations (EMBA) - Spring 2024
+* Operations Management (MBA) - Spring 2024, Fall 2021, Spring 2020
 * Supply Chain Analytics (Online MSBA Elective) - Spring 2023
 * Leading Digital Transformation and Innovation (EMBA) - Fall 2022
-* Managing Operations (Finance MBA Core) - Winter 2022, Winter 2023
 * Supply Chain Strategy (MBA) - Fall 2021
-* Operations Management (MBA) - Fall 2021, Spring 2020
 * Quantitative Analysis (Undergraduate) - Spring 2020
 
 

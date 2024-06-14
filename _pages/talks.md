@@ -12,13 +12,13 @@ author_profile: true
 {% include base_path %}
 
 ## Upcoming Talks
-* **INFORMS** Annual Meeting, Phoenix, 2023. "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
-  * Session TA28: October 17, 2023, 8 AM, CC-North 132A. 
-  * Session TE26: October 17, 2023, 4 PM, CC-North 131B.
+* **MSOM** Conference, Minneapolis, 2024. "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
+  * Session TC15: July 2, 2024, 2 PM - 3:30 PM.
 
 
 ## Selected Invited Talks
 * "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
+  * **INFORMS** Annual Meeting, Phoenix, Oct 2023.  
   * **MSOM** Conference, Montreal, Jun 2023.  
 
 * "Optimal Cash Management with Payables Finance."

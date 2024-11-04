@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
 ### Co-instructor
 * Review sessions for Managing Operations (MBA), Fall 2021
   * Teaching evaluation: 4.86 (1-5 Scale) 

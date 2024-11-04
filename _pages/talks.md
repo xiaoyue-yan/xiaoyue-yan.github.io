@@ -11,13 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-## Upcoming Talks
-* **MSOM** Conference, Minneapolis, 2024. "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
-  * Session TC15: July 2, 2024, 2 PM - 3:30 PM.
-
-
 ## Selected Invited Talks
+* "Birdbnb: Data-Driven Pitstop Support for Migrating Birds."
+  * **INFORMS** Annual Meeting, Seattle, Oct 2024.  
+
+* "Variability Propagation in the Perishable Product Supply Chains."
+  * **INFORMS** Annual Meeting, Seattle, Oct 2024.  
+  * **MSOM** Conference, Online, Jun 2021.
+  * **INFORMS** Annual Meeting, Online, Oct 2020.
+  * **Cornell Johnson OTIM PhD Forum**, Cornell University, Nov 2019.
+
 * "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency."
+  * **MSOM** Conference, Minneapolis, Jun 2024.  
   * **INFORMS** Annual Meeting, Phoenix, Oct 2023.  
   * **MSOM** Conference, Montreal, Jun 2023.  
 
@@ -25,11 +30,6 @@ author_profile: true
   * **INFORMS** Annual Meeting, Anaheim, Oct 2021.
   * **MSOM** Conference, Online, Jun 2021.
   * **Supply Chain Finance & Risk Management Workshop**, Online, May 2021.
-
-* "Variability Propagation in the Perishable Product Supply Chains."
-  * **MSOM** Conference, Online, Jun 2021.
-  * **INFORMS** Annual Meeting, Online, Oct 2020.
-  * **Cornell Johnson OTIM PhD Forum**, Cornell University, Nov 2019.
 
 * "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure."
   * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.

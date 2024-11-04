@@ -84,12 +84,12 @@ author:
   avatar           : "profile.jpg"
   bio              : "Ph.D."
   location         : 
-  employer         : "Cornell University"
+  employer         : "University of Oregon"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "xy393@cornell.edu"
+  email            : "xyan@uoregon.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.johnson.cornell.edu/programs/phd-program/current-students/xy393/"
+  uri              : "https://business.uoregon.edu/directory/operations-business-analytics/all/xyan"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xiaoyue-yan-946050173"
+  linkedin         : #"xiaoyue-yan-946050173"#
   orcid            :
   pinterest        :
   soundcloud       :

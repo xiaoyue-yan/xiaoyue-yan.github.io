@@ -6,11 +6,6 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching & Service"
+  - title: "Teaching"
     url: /teaching/    
         
-  # - title: "Miscellaneous"
-  #   url: /misc/
-    
-  - title: "CV"
-    url: /files/Xiaoyue_cv.pdf

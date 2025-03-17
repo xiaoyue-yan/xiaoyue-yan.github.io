@@ -37,7 +37,7 @@ author_profile: true
 * Yinyu Ye Scholarship, Shanghai University of Finance & Economics, 2018
 
 ## Service
-* Reviewer for Manufacturing & Service Operations Management.
+* Reviewer for Management Science, Manufacturing & Service Operations Management.
 * Judge, Three Minute Thesis (3MT) Competition, 2024.
 * Session Co-chair for 2022, 2023 INFORMS Annual Meeting.
 * Co-chair for 2020-2021 Cornell Johnson OTIM PhD Forum. 

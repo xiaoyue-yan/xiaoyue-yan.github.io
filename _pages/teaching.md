@@ -1,10 +1,15 @@
 ---
 layout: archive
-title: #"Teaching"#
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
+## University of Oregon
+### Instructor
+* Business Analytics II (Undergraduate Core), Winter 2025 
+
+## Cornell University & Cornell Tech
 ### Co-instructor
 * Review sessions for Managing Operations (MBA), Fall 2021
   * Teaching evaluation: 4.86 (1-5 Scale) 

@@ -16,6 +16,7 @@ author_profile: true
   * **INFORMS** Annual Meeting, Seattle, Oct 2024.  
 
 * "Variability Propagation in the Perishable Product Supply Chains."
+  * **POMS** Conference, Atlanta, Oct 2025.  
   * **INFORMS** Annual Meeting, Seattle, Oct 2024.  
   * **MSOM** Conference, Online, Jun 2021.
   * **INFORMS** Annual Meeting, Online, Oct 2020.

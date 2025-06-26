@@ -23,7 +23,7 @@ author_profile: true
 
 * "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency." with Elena Belavina and Karan Girotra. *In preparation for submission.* 
 
-* "Birdbnb: Data-Driven Auction Design for Short-Term Bird Habitat Rental." with Li Chen and Jue Wang.
+* "Birdbnb: Data-Driven Auction Design for Short-Term Bird Habitat Rental." with Li Chen and Jue Wang. *In preparation for submission.* 
 
 * "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure." with Li Chen. 
 

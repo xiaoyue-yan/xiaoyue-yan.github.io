@@ -21,7 +21,7 @@ author_profile: true
 ## Working Papers
 * "Variability Propagation in Perishable Product Supply Chains." with Elena Belavina. *In preparation for resubmission to Management Science.* [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550255)  
 
-* "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency." with Elena Belavina and Karan Girotra. *In preparation for submission.* 
+* "Data-driven Decisions in Supply Chains: Contracts, Algorithms and Efficiency." with Elena Belavina, Karan Girotra and Lorraine Yuan. *In preparation for submission.* 
 
 * "Birdbnb: Data-Driven Auction Design for Short-Term Bird Habitat Rental." with Li Chen and Jue Wang. *In preparation for submission.* 
 
